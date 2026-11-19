@@ -11,5 +11,3 @@ Yapay zekâ ve hazır ansiklopedi arşivi içermez.
 Dosyalar önceden depoya konulduğunda internet olmadan erişilebilir.
 Telefon ile depo arasındaki yerel ağ bağlantısı yine gereklidir.
 
-Geliştirici: Ali Can Yılmaz
-Telif hakkı (c) 2026 Ali Can Yılmaz. Bu belge proje LICENSE koşullarına tabidir.
