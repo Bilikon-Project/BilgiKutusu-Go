@@ -71,4 +71,6 @@ Due to the commercial use restriction, this is not an OSI-compliant open-source 
 > **方針:**
 > プロジェクトを立ち上げただけで責任を放棄し、「Linuxが使えるから」という理由で作業や後処理をすべて押し付ける行為には一切応じない。私は誰の便利屋でもない。各自が自分の尻拭いをすること。これ以上の関与は終了する。
 
+[ILY2](https://open.spotify.com/track/1KPS1MHPrq9uPklJX8Q4XW?si=_z3R5kIlS0OquTCom9JSOw&utm_source=copy-link)
+
 
